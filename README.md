@@ -1,1 +1,9 @@
 # To-Do-List-Manager
+
+## Names of contributors
+Mtu ana zubaa
+## Description of the project's purpose
+
+## Complete setup/installation instructions
+
+## License information with a copyright and date
