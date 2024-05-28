@@ -7,7 +7,7 @@ Patrick
 A simple to-do list manager using Python that will allow users to **add tasks**, **mark tasks as completed**, **list tasks**, and **remove tasks**.
 
 ## Complete setup/installation instructions
-N/A
+Complete
 
 ## License information with a copyright and date
 MIT license
